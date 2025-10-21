@@ -1,5 +1,5 @@
 function Home () {
-    return <h1> Olivia Rodrigo, princesa do pop! </h1>
+    return <h1> Messi maior do mundo </h1>
 }
 
 export default Home;
